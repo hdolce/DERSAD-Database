@@ -1,5 +1,5 @@
 # DERSAD-Database
-Saharan dust database during the Puerto Rican early rainfall season (April through July) using integrated dust transport and 85th percentile AAR methodologies.
+Saharan dust database during the Puerto Rican early rainfall season (April through July) using integrated dust transport and 85th percentile atmospheric river detection methodologies.
 
 Files uploaded by season due to GitHub file size limit.
 
